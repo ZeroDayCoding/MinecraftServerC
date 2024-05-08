@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Project Structure
+build/
+deps/
+docs/doxygen/
+.vscode/
